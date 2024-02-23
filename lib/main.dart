@@ -51,7 +51,7 @@ class First extends StatelessWidget {
                   child: Card(
                     color: Colors.amber,
                     elevation: 50,
-                    child: Align(child: Text('Hoşgeldiniz'))
+                    child: Align(child: Text('Hoşgeldinizzzz'))
                     ),
                     ),
             ],
